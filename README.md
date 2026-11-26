@@ -16,6 +16,12 @@ The official program is currently branded **CCISO v4 — AI-Enhanced**
 routes, the exam and blueprint, governance frameworks, board communication,
 risk and finance, AI governance, and realistic leadership careers.
 
+Each article is a **full study guide** (about 4,200–5,500 words) with learning
+objectives, deep explanations, tables, ASCII decision diagrams, fictional
+worked cases, scenario exercises with answer keys, reusable templates, a
+glossary, and dated verification notes. This is deliberate: the material is
+meant to be studied, not skimmed.
+
 > ⚠️ **Independent study resource.** EC-Council, CCISO, CISSP, CISM, CISA and
 > other credential names are trademarks of their respective owners. This
 > project is **unofficial** and **not affiliated with or endorsed by
@@ -108,6 +114,7 @@ csix-cciso/
 
 Article style: pure Markdown, no front matter, `# Title` first line,
 one `## See also` section with relative links at the end.
+`WRITING-STANDARD.md` defines the full depth contract for every article.
 
 ## Related CSIX repos
 

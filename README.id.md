@@ -16,6 +16,12 @@ Program resminya saat ini memakai merek **CCISO v4 — AI-Enhanced** (dicek
 ujian dan blueprint, framework tata kelola, komunikasi dewan, risiko dan
 keuangan, tata kelola AI, serta karier kepemimpinan yang realistis.
 
+Setiap artikel adalah **panduan belajar lengkap** (sekitar 4.200–5.500 kata)
+berisi tujuan belajar, penjelasan mendalam, tabel, diagram keputusan ASCII,
+studi kasus fiktif, latihan skenario dengan kunci jawaban, template yang bisa
+dipakai ulang, glosarium, dan catatan verifikasi bertanggal. Ini disengaja:
+materinya dibuat untuk dipelajari, bukan sekadar dibaca cepat.
+
 > ⚠️ **Sumber belajar independen.** EC-Council, CCISO, CISSP, CISM, CISA dan
 > nama kredensial lain adalah merek dagang pemiliknya. Proyek ini **tidak
 > resmi** dan **tidak berafiliasi atau didukung oleh EC-Council**. Tidak ada
@@ -109,6 +115,7 @@ csix-cciso/
 
 Gaya artikel: Markdown murni, tanpa front matter, baris pertama `# Judul`,
 diakhiri satu bagian `## Lihat juga` berisi link relatif.
+`WRITING-STANDARD.md` memuat kontrak kedalaman lengkap untuk setiap artikel.
 
 ## Repo CSIX terkait
 
